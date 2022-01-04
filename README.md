@@ -2,7 +2,7 @@
 
 ### Franchise Cafe Review Application Project Using Xcode
 
-### 제작자 : 송예진 외 4명
+### 제작자 : 송여원 외 4명
 
 ---
 
